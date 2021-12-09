@@ -4,5 +4,5 @@ variable "instance_type" {
 }
 variable "instance_name" {
     type = string
-    default = "ec2-module instance"
+    default = "ec2-module-my-instance"
 }
